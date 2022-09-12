@@ -1,0 +1,13 @@
+0) cd
+
+1) git init
+
+2) git status
+
+3) git add . or git add "file name"
+
+4) git commit -m "Save_Name"
+
+5) git push
+
+6) git clone (html link) - for load git repository
